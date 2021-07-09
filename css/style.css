@@ -79,7 +79,7 @@ body {
 .tech-skills-container {
   margin-left: 40px;
   margin-right: 40px;
-  margin-top: 55px;
+  margin-top: 25px;
 }
 
 .tech-skills-item {
@@ -97,7 +97,7 @@ body {
 .soft-skills-container {
   margin-left: 40px;
   margin-right: 40px;
-  margin-top: 55px;
+  margin-top: 25px;
 }
 
 .soft-skills-title {
@@ -119,6 +119,23 @@ body {
 
 .soft-skills-text {
   color: #ffffff;
+}
+
+.location-container {
+  margin-left: 10px;
+  margin-right: 40px;
+  margin-top: 25px;
+}
+.location-text {
+  color: #ffffff;
+}
+
+.location-item {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
 }
 
 .profession {
